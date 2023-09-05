@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auanK).
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auanK&theme=transparent).
